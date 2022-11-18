@@ -17,7 +17,7 @@
 <p>When I'm not coding, you can find me geeking about 3D printing or roleplaying games. Both my work and my hobbies have the same idea, so I can say that I like to build things, like websites, systems, gadgets, stories, characters.</p>
 
 ---
-<img align="right" alt="A draw in anime style of a young guy smiling" src="./smiling.gif" width="250" height="140" />
+<img align="right" alt="A draw in anime style of a young guy smiling" src="./smiling.gif" width="260" height="150" />
 
 <ul align="left">
     <li>😄 My Pronouns: He/His </li>
@@ -35,6 +35,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielDSousa" alt="GabrielDSousa's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielDSousa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gabriel's language" height="192px"  width="500px"/>
 </div>
+<br/>
+<br/>
 <div>
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GabrielDSousa&show_icons=true" height="192px"  width="500px" />
     <img align="center" alt="GabrielDSousa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GabrielDSousa&custom_title=Gabriel's%20Contribution%20Graph&theme=react-dark" height="192px"  width="500px"/>
