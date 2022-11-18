@@ -17,7 +17,7 @@
 <p>When I'm not coding, you can find me geeking about 3D printing or roleplaying games. Both my work and my hobbies have the same idea, so I can say that I like to build things, like websites, systems, gadgets, stories, characters.</p>
 
 <img align="left" alt="A draw in anime style of a young guy smiling" src="./smiling.gif" width="270" height="160" />
-<ul align="left">
+<ul>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;😄 My Pronouns: He/His </li>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;💬 Ask me about: Laravel, PHP, Building Career In Tech, Animes</li>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me: <a href="https://www.linkedin.com/in/gabrieldsousa/">@GabrielDSousa</a></li>
@@ -29,11 +29,95 @@
 
 ---
 <h2> About my career </h2>
+<img align="right" alt="A draw in anime style of hand typing on a keyboard, showing a gundam on screen" src="./laptop.gif" width="270" height="204" />
+
+<h3> Languages and experience </h3>
+
+<table>
+    <tr>
+        <th>PHP</th>
+        <th>Laravel</th>
+        <th>Symphony</th>
+        <th>Javascript</th>
+        <th>Vue</th>
+        <th>MySql</th>
+        <th>HTML</th>
+        <th>CSS</th>
+    </tr>
+    <tr>
+        <td>3 years</td>
+        <td>3 years</td>
+        <td>2 months</td>
+        <td>3 years</td>
+        <td>2 years</td>
+        <td>3 years</td>
+        <td>3 years</td>
+        <td>3 years</td>
+    </tr>
+</table>
+
+<h3> Acknowledgements </h3>
+
+<ul>
+    <li>Technical:</li>
+</ul>
+<table>
+    <tr>
+        <td>SOLID</td>
+        <td>MVC</td>
+        <td>Microservices</td>
+        <td>REST Api</td>
+        <td>PHPUnit</td>
+        <td>Unit tests</td>
+        <td>Docker</td>
+        <td>Linux</td>
+    </tr>
+</table>
+<ul>
+    <li>Good practices:</li>
+</ul>
+<table>
+    <tr>
+        <td>Documentation</td>
+        <td>Clean Architecture</td>
+        <td>Version control</td>
+        <td>Object Orientation</td>
+        <td>Test driven development</td>
+    </tr>
+</table>
+    <ul>
+        <li>Tools:</li>
+    </ul>
+<table>
+    <tr>
+        <td>Postman</td>
+        <td>PhpStorm</td>
+        <td>Visual Studio Code</td>
+        <td>DBeaver</td>
+        <td>Gitlab</td>
+        <td>Github</td>
+        <td>Jira</td>
+    </tr>
+</table>
+    <ul>
+        <li>Management:</li>
+    </ul>
+<table>
+    <tr>
+        <td>Kanban</td>
+        <td>OKR</td>
+        <td>Agile</td>
+        <td>Scrum</td>
+    </tr>
+</table>
+
+
 
 <!-- About section: END -->
 
 ---
 <!-- GitHub section -->
+
 <h3> My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h3>
  
 <div>
