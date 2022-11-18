@@ -18,10 +18,10 @@
 
 <img align="left" alt="A draw in anime style of a young guy smiling" src="./smiling.gif" width="270" height="160" />
 <ul align="left">
-    <li>😄 My Pronouns: He/His </li>
-    <li>💬 Ask me about: Laravel, PHP, Building Career In Tech, Animes</li>
-    <li>📫 How to reach me: <a href="https://www.linkedin.com/in/gabrieldsousa/">@GabrielDSousa</a></li>
-    <li>⚡ Fun fact: Almost all of my knowledge of the English language came through video games, Gundam anime subtitled in English, television series and basic English classes at Brazilian school. Despite the unorthodox methods I was able to be certified several times with advanced English. </li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;😄 My Pronouns: He/His </li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;💬 Ask me about: Laravel, PHP, Building Career In Tech, Animes</li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me: <a href="https://www.linkedin.com/in/gabrieldsousa/">@GabrielDSousa</a></li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact: Almost all of my knowledge of the English language came through video games, Gundam anime subtitled in English, television series and basic English classes at Brazilian school. Despite the unorthodox methods I was able to be certified several times with advanced English. </li>
 </ul>
 <!-- About section: END -->
 
