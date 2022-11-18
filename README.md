@@ -37,7 +37,7 @@
 </div>
 <div>
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GabrielDSousa&show_icons=true" height="192px"  width="500px" />
-    <a align="center" href="https://github.com/GabrielDSousa/"><img alt="GabrielDSousa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GabrielDSousa&custom_title=Gabriel's%20Contribution%20Graph&theme=react-dark" /></a>
+    <img align="center" alt="GabrielDSousa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GabrielDSousa&custom_title=Gabriel's%20Contribution%20Graph&theme=react-dark" height="192px"  width="500px"/>
 </div>
 
 <!-- GitHub section: END -->
