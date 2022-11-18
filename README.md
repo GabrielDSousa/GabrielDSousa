@@ -17,7 +17,7 @@
 <p>When I'm not coding, you can find me geeking about 3D printing or roleplaying games. Both my work and my hobbies have the same idea, so I can say that I like to build things, like websites, systems, gadgets, stories, characters.</p>
 
 <img align="left" alt="A draw in anime style of a young guy smiling" src="./smiling.gif" width="270" height="160" />
-<ul align="right">
+<ul align="left">
     <li>😄 My Pronouns: He/His </li>
     <li>💬 Ask me about: Laravel, PHP, Building Career In Tech, Animes</li>
     <li>📫 How to reach me: <a href="https://www.linkedin.com/in/gabrieldsousa/">@GabrielDSousa</a></li>
