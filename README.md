@@ -23,7 +23,7 @@
     <li>😄 My Pronouns: He/His </li>
     <li>💬 Ask me about: Laravel, PHP, Building Career In Tech, Animes</li>
     <li>📫 How to reach me: <a href="https://www.linkedin.com/in/gabrieldsousa/">@GabrielDSousa</a></li>
-    <li>⚡ Fun fact: </li>
+    <li>⚡ Fun fact: Almost all of my knowledge of the English language came through video games, Gundam anime subtitled in English, television series and basic English classes at Brazilian school. Despite the unorthodox methods I was able to be certified several times with advanced English. </li>
 </ul>
 <!-- About section: END -->
 
