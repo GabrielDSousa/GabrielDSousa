@@ -35,17 +35,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielDSousa" alt="GabrielDSousa's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielDSousa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gabriel's language" height="192px"  width="500px"/>
 </div>
-
-<details>
-  <summary><b>GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GabrielDSousa&show_icons=true" />
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/GabrielDSousa/"><img alt="GabrielDSousa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GabrielDSousa&custom_title=Gabriel's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
+<div>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GabrielDSousa&show_icons=true" height="192px"  width="500px" />
+    <a align="center" href="https://github.com/GabrielDSousa/"><img alt="GabrielDSousa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GabrielDSousa&custom_title=Gabriel's%20Contribution%20Graph&theme=react-dark" /></a>
+</div>
 
 <!-- GitHub section: END -->
 
