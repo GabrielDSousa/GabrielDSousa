@@ -29,7 +29,7 @@
 
 ---
 <h2> About my career </h2>
-<img align="right" alt="A draw in anime style of hand typing on a keyboard, showing a gundam on screen" src="./laptop.gif" width="270" height="400" />
+<img align="right" alt="A mess room with some electronics and a view for a rainy day outside" src="./room.gif" width="200" height="400" />
 
 <h3> Languages and experience </h3>
 
