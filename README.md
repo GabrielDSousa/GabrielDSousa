@@ -29,7 +29,7 @@
 
 ---
 <h2> About my career </h2>
-<img align="right" alt="A draw in anime style of hand typing on a keyboard, showing a gundam on screen" src="./laptop.gif" width="270" height="204" />
+<img align="right" alt="A draw in anime style of hand typing on a keyboard, showing a gundam on screen" src="./laptop.gif" width="270" height="400" />
 
 <h3> Languages and experience </h3>
 
@@ -43,6 +43,7 @@
         <th>MySql</th>
         <th>HTML</th>
         <th>CSS</th>
+        <th>Git</th>
     </tr>
     <tr>
         <td>3 years</td>
@@ -82,7 +83,7 @@
         <td>Clean Architecture</td>
         <td>Version control</td>
         <td>Object Orientation</td>
-        <td>Test driven development</td>
+        <td>TDD</td>
     </tr>
 </table>
     <ul>
