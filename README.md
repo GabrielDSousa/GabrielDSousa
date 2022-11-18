@@ -29,7 +29,7 @@
 
 ---
 <h2> About my career </h2>
-<img align="right" alt="A mess room with some electronics and a view for a rainy day outside" src="./room.gif" width="200" height="400" />
+<img align="right" alt="A mess room with some electronics and a view for a rainy day outside" src="./room.gif" width="210" height="420" />
 
 <h3> Languages and experience </h3>
 
@@ -51,6 +51,7 @@
         <td>2 months</td>
         <td>3 years</td>
         <td>2 years</td>
+        <td>3 years</td>
         <td>3 years</td>
         <td>3 years</td>
         <td>3 years</td>
