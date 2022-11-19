@@ -13,15 +13,15 @@
 ---
 <h2> About me </h2>
 <img align="right" alt="A draw in anime style of hand typing on a keyboard, showing a gundam on screen" src="./laptop.gif" width="210" height="199" />
-<p>✨ I'm a full stack developer with a focus on backend development. I love studying new trends or new languages, that's why I became a full stack developer. When I build a system, if I have the time, I like to know all the technologies used in the architecture, even if I'm not developing with them, just to make sure I'm building a system that's robust, scalable, and using best development practices.</p>
-<p>When I'm not coding, you can find me geeking about 3D printing or roleplaying games. Both my work and my hobbies have the same idea, so I can say that I like to build things, like websites, systems, gadgets, stories, characters.</p>
+<p>✨ I'm a full-stack developer with a focus on backend development. I became a full-stack developer because I love studying new trends and languages. When I build a system, if I have the time, I like to know all the technologies used in the architecture, even if I'm not developing with them, to have sure I'm building a robust, scalable system and using best development practices.</p>
+<p>You can find me geeking about 3D printing or roleplaying games when I'm not coding. Both my work and my hobbies have the same idea, so I can say that I like to build things like websites, systems, gadgets, stories, and characters.</p>
 
 <img align="left" alt="A draw in anime style of a young guy smiling" src="./smiling.gif" width="270" height="160" />
 <ul>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;😄 My Pronouns: He/His </li>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;💬 Ask me about: Laravel, PHP, Building Career In Tech, Animes</li>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me: <a href="https://www.linkedin.com/in/gabrieldsousa/">@GabrielDSousa</a></li>
-    <li>&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact: Almost all of my knowledge of the English language came through video games, Gundam anime subtitled in English, television series and basic English classes at Brazilian school. Despite the unorthodox methods I was able to be certified several times with advanced English. </li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact, almost all of my knowledge of the English language came through video games, Gundam anime subtitled in English, television series and basic English classes at a Brazilian school. Despite the unorthodox methods, I was certified several times in advanced English.</li>
 </ul>
 <!-- About section: END -->
 
