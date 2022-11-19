@@ -12,7 +12,7 @@
 
 ---
 <h2> About me </h2>
-<img align="right" alt="A draw in anime style of hand typing on a keyboard, showing a gundam on screen" src="./laptop.gif" width="210" height="199" />
+<img align="right" alt="A draw in anime style of hand typing on a keyboard, showing a gundam on screen" src="./laptop.gif" width="200" height="185" />
 <p>✨ I'm a full-stack developer with a focus on backend development. I became a full-stack developer because I love studying new trends and languages. When I build a system, if I have the time, I like to know all the technologies used in the architecture, even if I'm not developing with them, to have sure I'm building a robust, scalable system and using best development practices.</p>
 <p>You can find me geeking about 3D printing or roleplaying games when I'm not coding. Both my work and my hobbies have the same idea, so I can say that I like to build things like websites, systems, gadgets, stories, and characters.</p>
 
