@@ -126,12 +126,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielDSousa" alt="GabrielDSousa's LangStat" width="400px" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielDSousa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gabriel's language" width="400px"/>
 </div>
-<br/>
-<br/>
-<div>
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GabrielDSousa&show_icons=true" width="400px" />
-    <img align="center" alt="GabrielDSousa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GabrielDSousa&custom_title=Gabriel's%20Contribution%20Graph&theme=react-dark" width="400px"/>
-</div>
 
 <!-- GitHub section: END -->
 
