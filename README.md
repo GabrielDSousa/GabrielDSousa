@@ -119,13 +119,8 @@
 
 ---
 <!-- GitHub section -->
-
-<h3> My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h3>
- 
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielDSousa" alt="GabrielDSousa's LangStat" width="600px" />
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDSousa)](https://github.com/GabrielDSousa/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielDSousa" alt="GabrielDSousa's LangStat" width="600px" />
 <!-- GitHub section: END -->
 
 <!-- THE END -->
