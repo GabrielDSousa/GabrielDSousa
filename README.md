@@ -118,7 +118,7 @@
 
 ---
 <!-- GitHub section -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDSousa)](https://github.com/GabrielDSousa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDSousa)](https://github.com/GabrielDSousa)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielDSousa" alt="GabrielDSousa's LangStat" width="600px" />
 <!-- GitHub section: END -->
 
