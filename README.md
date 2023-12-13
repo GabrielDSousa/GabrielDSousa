@@ -5,7 +5,8 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/gabrieldsousa/">Linkedin</a> •
     <a href="https://twitter.com/GabsDSousa">Twitter</a> •
-    <a href="https://www.instagram.com/GabsDSousa/">Instagram</a>
+    <a href="https://www.instagram.com/GabsDSousa/">Instagram</a> •
+    <a href="https://gabrieldsousa.glitch.me">Personal Resume Website</a>
 </p>
 
  <!-- About section -->
@@ -16,6 +17,8 @@
 <p>✨ I'm a full-stack developer with a focus on backend development. I became a full-stack developer because I love studying new trends and languages. When I build a system, if I have the time, I like to know all the technologies used in the architecture, even if I'm not developing with them, to have sure I'm building a robust, scalable system and using best development practices.</p>
 <p>You can find me geeking about 3D printing or roleplaying games when I'm not coding. Both my work and my hobbies have the same idea, so I can say that I like to build things like websites, systems, gadgets, stories, and characters.</p>
 
+<p>Explore my professional journey on my <a href="https://gabrieldsousa.glitch.me">personal resume website</a> built with React, showcasing a clean and responsive design. It incorporates various best practices, including reactivity, accessibility, and integration with external tools like Glitch.com. The website provides an interactive and visually appealing way to present a professional resume.</p>
+
 <img align="left" alt="A draw in anime style of a young guy smiling" src="./smiling.gif" width="270" height="160" />
 <ul>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;💬 Ask me about: Laravel, PHP,3d printing, Animes</li>
@@ -24,7 +27,7 @@
 </ul>
 <!-- About section: END -->
 
- <!-- Career section -->
+<!-- Career section -->
 
 ---
 <h2> About my career </h2>
@@ -34,7 +37,7 @@
     <tr>
         <th>PHP</th>
         <th>Laravel</th>
-        <th>Symphony</th>
+        <th>Symfony</th>
         <th>Javascript</th>
         <th>Vue</th>
         <th>MySql</th>
@@ -112,12 +115,8 @@
     </tr>
 </table>
 
-
-
-<!-- About section: END -->
-
----
 <!-- GitHub section -->
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDSousa)](https://github.com/GabrielDSousa)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielDSousa" alt="GabrielDSousa's LangStat" width="600px" />
 <!-- GitHub section: END -->
