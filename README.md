@@ -19,11 +19,11 @@
 
 <p>Explore my professional journey on my <a href="https://gabrieldsousa.glitch.me">personal resume website</a> built with React, showcasing a clean and responsive design. It incorporates various best practices, including reactivity, accessibility, and integration with external tools like Glitch.com. The website provides an interactive and visually way to present a professional resume.</p>
 
-<img align="left" alt="A drawing in anime style of a young guy smiling" src="./smiling.gif" width="270" height="160" />
+<img align="left" alt="A drawing in anime style of a young guy smiling" src="./smiling.gif" width="270" height="160"/>
 <ul>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;💬 Ask me about: Laravel, PHP, 3D printing, Animes</li>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me: <a href="https://www.linkedin.com/in/gabrieldsousa/">@GabrielDSousa</a></li>
-    <li>&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact: Almost all of my knowledge of the English language came through video games, &nbsp;Gundam anime subtitled in English, television series, and basic English classes at a Brazilian school. &nbsp;Despite the unorthodox methods, I have been certified several times in advanced English.</li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact: Almost all of my knowledge of the English language came through video games, Gundam anime subtitled in English, television series, and basic English classes at a Brazilian school. Despite the unorthodox methods, I have been certified several times in advanced English.</li>
 </ul>
 <!-- About section: END -->
 
