@@ -10,8 +10,9 @@
 </p>
 
 <!-- Kofi section -->
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U6I8114)
-
+<p align="center">
+    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U6I8114)
+</p>
 <!-- About section -->
 ---
 <h2>About me</h2>
