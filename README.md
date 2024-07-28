@@ -1,6 +1,9 @@
 <!-- Heading -->
 <h1 align="center"> <img src="./wave.gif" width="30px" alt="Hand waving"> Hi there! I'm Gabriel Sousa</h1>
 
+<!-- Kofi section -->
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U6I8114)
+
 <!-- Contact section -->
 <h2>Contact me</h2>
 <p align="center">
@@ -9,12 +12,7 @@
     <a href="https://www.instagram.com/GabsDSousa/">Instagram</a>
 </p>
 
-<!-- Kofi section -->
-<p align="center">
-    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U6I8114)
-</p>
 <!-- About section -->
----
 <h2>About me</h2>
 <img align="right" alt="A drawing in anime style of a hand typing on a keyboard, showing a Gundam on the screen" src="./laptop.gif" width="200" height="185" />
 <p>✨ I'm a full-stack developer with a focus on backend development. I became a full-stack developer because I love studying new trends and languages. When I build a system, if I have the time, I like to understand all the technologies used in the architecture, even if I'm not developing with them, to ensure I'm building a robust, scalable system and using best development practices.</p>
