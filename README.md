@@ -6,9 +6,11 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/gabrieldsousa/">LinkedIn</a> •
     <a href="https://twitter.com/GabsDSousa">Twitter</a> •
-    <a href="https://www.instagram.com/GabsDSousa/">Instagram</a> •
-    <a href="https://gabrieldsousa.glitch.me">Personal Resume Website</a>
+    <a href="https://www.instagram.com/GabsDSousa/">Instagram</a>
 </p>
+
+<!-- Kofi section -->
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U6I8114)
 
 <!-- About section -->
 ---
