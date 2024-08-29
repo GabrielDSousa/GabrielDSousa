@@ -74,7 +74,7 @@ When I'm not coding, you can find me geeking out about 3D printing or roleplayin
             <td>Documentation</td>
             <td>Clean Architecture</td>
             <td>Version Control</td>
-            <td>Object-Oriented Programming</td>
+            <td>OOP</td>
             <td>TDD</td>
         </tr>
     </table>
