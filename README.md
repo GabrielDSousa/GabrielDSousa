@@ -1,13 +1,30 @@
-# Sobre
-Repositório de projetos feitos por Gabs D Sousa. Atualmente focado em desenvolvimento de jogos porém com a maioria dos projetos sendo web usando Laravel, por enquanto.
+# 📍 Sobre / About
 
-## Links importantes
-<b>Meus jogos</b>&nbsp;&#x279C;&nbsp;<a href="https://gabsdsousa.itch.io/">Itch</a>
+> **PT:** Repositório central de projetos de **Gabs D Sousa**.
+>
+> **EN:** Central project repository by **Gabs D Sousa**.
 
-<b>Sobre minha carreira</b>&nbsp;&#x279C;&nbsp;<a href="https://www.linkedin.com/in/gabrieldsousa/">LinkedIn</a>
+---
 
+### 🎯 Foco e Tecnologias / Focus & Stack
 
-<b>Redes sociais</b>&nbsp;&#x279C;&nbsp;<a href="https://x.com/GabsDSousa/">Twitter</a> | <a href="https://www.instagram.com/artsdgabs/">Instagram</a>
+- 🇧🇷 **Foco atual:** Desenvolvimento de Jogos (Gamedev).
+  - 🇺🇸 **Current focus:** Game Development (Gamedev).
+- 🇧🇷 **Stack principal (Web):** PHP & Laravel.
+  - 🇺🇸 **Primary Web Stack:** PHP & Laravel.
 
-## Onde contribuir com os projetos
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U6I8114) 
+---
+
+## 🔗 Links Úteis / Useful Links
+
+| 🇧🇷 Português | 🇺🇸 English | Link |
+| :--- | :--- | :--- |
+| 🎮 **Jogos** | 🎮 **Games** | [itch.io](https://gabsdsousa.itch.io/) |
+| 💼 **Carreira** | 💼 **Career** | [LinkedIn](https://www.linkedin.com/in/gabrieldsousa/) |
+| 🐦 **Redes** | 🐦 **Socials** | [Twitter/X](https://x.com/GabsDSousa/) • [Instagram](https://www.instagram.com/artsdgabs/) |
+
+---
+
+## 💜 Contribua / Support
+
+[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U6I8114)
