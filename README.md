@@ -1,12 +1,13 @@
-# 👋 Hi there! I'm Gabs D Sousa
+# Sobre
+Repositório de projetos feitos por Gabs D Sousa. Atualmente focado em desenvolvimento de jogos porém com a maioria dos projetos sendo web usando Laravel, por enquanto.
 
-## Contact Me
-<p align="left">
-    <a href="https://www.linkedin.com/in/gabrieldsousa/">LinkedIn</a> •
-    <a href="https://gabsdsousa.itch.io/">Itch</a> •
-    <a href="https://x.com/GabsDSousa/">Twitter</a> •
-    <a href="https://www.instagram.com/GabsDSousa/">Instagram</a>
-</p>
+## Links importantes
+<b>Meus jogos</b>&nbsp;&#x279C;&nbsp;<a href="https://gabsdsousa.itch.io/">Itch</a>
 
-## Or Buy Me a Coffee ☕
+<b>Sobre minha carreira</b>&nbsp;&#x279C;&nbsp;<a href="https://www.linkedin.com/in/gabrieldsousa/">LinkedIn</a>
+
+
+<b>Redes sociais</b>&nbsp;&#x279C;&nbsp;<a href="https://x.com/GabsDSousa/">Twitter</a> | <a href="https://www.instagram.com/artsdgabs/">Instagram</a>
+
+## Onde contribuir com os projetos
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U6I8114) 
