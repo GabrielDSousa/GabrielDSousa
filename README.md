@@ -1,6 +1,8 @@
-# 🇧🇷 Repositório central de projetos e estudos de **Gabs D Sousa**. 
-> 🇺🇸 Central project and study repository by **Gabs D Sousa**.
+# 🇧🇷 Repositório de projetos e estudos de **Gabs D Sousa**. 
+> 🇺🇸 Project and study repository by **Gabs D Sousa**.
+
 ---
+
 ![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -13,6 +15,7 @@
   - > **GameDev:** Focused on game development with **Godot** and **Unity**.
 - **Web:** Desenvolvimento backend e full-stack com **PHP & Laravel**.
   - > **Web:** Backend and full-stack development with **PHP & Laravel**.
+
 ---
 
 ## Onde me achar
@@ -23,6 +26,7 @@
 | 🎮 **Jogos** | 🎮 **Games** | [itch.io](https://gabsdsousa.itch.io/) |
 | 💼 **Carreira** | 💼 **Career** | [LinkedIn](https://www.linkedin.com/in/gabrieldsousa/) |
 | 🐦 **Redes** | 🐦 **Socials** | [Twitter/X](https://x.com/GabsDSousa/) • [Instagram](https://www.instagram.com/artsdgabs/) |
+
 
 ---
 
